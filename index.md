@@ -1,6 +1,6 @@
 # Privacy Policy for Poker Chip Manager
 
-**Last Updated: [DATE]**
+**Last Updated: [08/11/25]**
 
 ## Overview
 
@@ -157,36 +157,3 @@ This app complies with:
 ## Your Consent
 
 By using Poker Chip Manager, you consent to this Privacy Policy and our collection and use of information as described.
-
----
-
-**Effective Date**: [DATE]  
-**Version**: 1.0
-
----
-
-## How to Host This Privacy Policy
-
-### Option 1: GitHub Pages (Free)
-1. Create a repository called `poker-chip-manager-privacy`
-2. Create a file called `index.md` with this content
-3. Enable GitHub Pages in repository settings
-4. Your URL will be: `https://yourusername.github.io/poker-chip-manager-privacy`
-
-### Option 2: Google Sites (Free)
-1. Go to sites.google.com
-2. Create a new site
-3. Paste this privacy policy
-4. Publish
-5. Copy the public URL
-
-### Option 3: Your Own Website
-Upload this as an HTML file to your existing website
-
----
-
-**Remember to:**
-1. Replace `[DATE]` with actual date
-2. Replace `your.email@example.com` with your actual email
-3. Add your website URL if applicable
-4. Update the policy as your app evolves
